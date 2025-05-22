@@ -227,3 +227,4 @@ int __fastcall detoured_CGCamera_updateCallback_0x511bc0(void* unknown1, uint32_
     }
     return result;
 }
+
